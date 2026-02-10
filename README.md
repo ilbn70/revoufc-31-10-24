@@ -1,0 +1,1 @@
+Saya belum memiliki banyak project IT terbaru. Namun saya pernah mengembangkan aplikasi sederhana (BMI Calculator) untuk melatih logika pemrograman dan struktur kode. Selain itu, saya memiliki latar belakang desain yang membantu saya memahami aspek user experience dan visual dalam pengembangan aplikasi
